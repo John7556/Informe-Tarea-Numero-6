@@ -274,8 +274,11 @@ CAPITULO 12
 
 •	Se proporciona un análisis de circuitos de ca en el cual se estudian las señales eléctricas que varían con el tiempo, en particular la onda seno. Una señal eléctrica es un voltaje o una corriente que cambian de manera consistente con el tiempo. En otras palabras, el voltaje o la corriente fluctúan de acuerdo con cierto patrón llamado forma de onda El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica una señal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada.
 
+6. Video
 
-6. BIBLIOGRAFÍA
+https://www.youtube.com/watch?v=EO_7fIEY-Jc
+
+8. BIBLIOGRAFÍA
 
 •	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
 
