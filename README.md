@@ -2,10 +2,37 @@
 
 1. OBJETIVOS
 
+•	Identificar una forma de onda sinusoidal y medir sus características
+
+•	Describir cómo se generan las ondas seno y determinar los diversos valores de voltaje y corriente de una onda seno
+
+•	Describir las relaciones angulares de una onda seno, analizar matemáticamente una forma de onda sinusoidal
+
+•	Utilizar un fasor para representar una onda seno
+
+•	Aplicar las leyes de circuito básicas a circuitos de ca resistivos
+
+•	Determinar voltajes totales que tienen tanto componentes de ca como de cd
+
+•	Identificar las características de formas de onda no sinusoidales básicas
+
+•	Utilizar un osciloscopio para medir formas de onda
+
+•	Describir la construcción y las características básicas de un capacitor
+
+•	Estudiar los diversos tipos de capacitores
+
+•	Analizar capacitores en serie, capacitores en paralelo, circuitos de cd con capacitores conmutados y circuitos de ca capacitivos
+
+•	Estudiar la operación de circuitos conmutados por un capacitor
+
 
 2. MARCO TEÓRICO (RESUMEN)
 
-
+![1](https://user-images.githubusercontent.com/93899720/149859015-9e42b333-3074-424a-b073-63976b7fe952.jpg)
+![2](https://user-images.githubusercontent.com/93899720/149859039-ae175471-fdd3-424e-84dc-93ad95c3c738.jpg)
+![3](https://user-images.githubusercontent.com/93899720/149859071-d3154b4a-986d-4804-a22f-f60208a5fa3c.jpg)
+![4](https://user-images.githubusercontent.com/93899720/149859088-6f74af97-055f-4611-aab1-14f1bab24b61.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -243,18 +270,15 @@ CAPITULO 12
 ![image](https://user-images.githubusercontent.com/93899720/149828540-ce940505-39fc-4fb1-b876-69ee17850936.png)
 
 
-55
-
-
 5. CONCLUSIONES
+
+•	Se proporciona un análisis de circuitos de ca en el cual se estudian las señales eléctricas que varían con el tiempo, en particular la onda seno. Una señal eléctrica es un voltaje o una corriente que cambian de manera consistente con el tiempo. En otras palabras, el voltaje o la corriente fluctúan de acuerdo con cierto patrón llamado forma de onda El capacitor es un dispositivo eléctrico que puede guardar carga eléctrica, con lo cual crea un campo eléctrico que, a su vez, guarda energía. La medida de la capacidad de almacenamiento de energía de un capacitor es su capacitancia. Cuando se aplica una señal sinusoidal a un capacitor, éste reacciona de cierta manera y produce oposición a la corriente, la cual depende de la frecuencia y la señal aplicada.
 
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+•	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
 
-RUBRICA
-
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+•	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación.
 
 
